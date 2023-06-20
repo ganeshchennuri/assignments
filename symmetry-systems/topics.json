@@ -1,0 +1,1518 @@
+[
+    {
+        "name": "AWS Account Management",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsaccountmanagement.html"
+    },
+    {
+        "name": "AWS Activate",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsactivate.html"
+    },
+    {
+        "name": "Alexa for Business",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_alexaforbusiness.html"
+    },
+    {
+        "name": "AmazonMediaImport",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonmediaimport.html"
+    },
+    {
+        "name": "AWS Amplify",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsamplify.html"
+    },
+    {
+        "name": "AWS Amplify Admin",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsamplifyadmin.html"
+    },
+    {
+        "name": "AWS Amplify UI Builder",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsamplifyuibuilder.html"
+    },
+    {
+        "name": "Apache Kafka APIs for Amazon MSK clusters",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_apachekafkaapisforamazonmskclusters.html"
+    },
+    {
+        "name": "Amazon API Gateway",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonapigateway.html"
+    },
+    {
+        "name": "Amazon API Gateway Management",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonapigatewaymanagement.html"
+    },
+    {
+        "name": "Amazon API Gateway Management V2",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonapigatewaymanagementv2.html"
+    },
+    {
+        "name": "AWS App Mesh",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsappmesh.html"
+    },
+    {
+        "name": "AWS App Mesh Preview",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsappmeshpreview.html"
+    },
+    {
+        "name": "AWS App Runner",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsapprunner.html"
+    },
+    {
+        "name": "AWS App2Container",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsapp2container.html"
+    },
+    {
+        "name": "AWS AppConfig",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsappconfig.html"
+    },
+    {
+        "name": "Amazon AppFlow",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonappflow.html"
+    },
+    {
+        "name": "Amazon AppIntegrations",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonappintegrations.html"
+    },
+    {
+        "name": "AWS Application Auto Scaling",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsapplicationautoscaling.html"
+    },
+    {
+        "name": "AWS Application Cost Profiler Service",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsapplicationcostprofilerservice.html"
+    },
+    {
+        "name": "Application Discovery Arsenal",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_applicationdiscoveryarsenal.html"
+    },
+    {
+        "name": "AWS Application Discovery Service",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsapplicationdiscoveryservice.html"
+    },
+    {
+        "name": "AWS Application Migration Service",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsapplicationmigrationservice.html"
+    },
+    {
+        "name": "Amazon AppStream 2.0",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonappstream2.0.html"
+    },
+    {
+        "name": "AWS AppSync",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsappsync.html"
+    },
+    {
+        "name": "AWS Artifact",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsartifact.html"
+    },
+    {
+        "name": "Amazon Athena",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonathena.html"
+    },
+    {
+        "name": "AWS Audit Manager",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsauditmanager.html"
+    },
+    {
+        "name": "AWS Auto Scaling",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsautoscaling.html"
+    },
+    {
+        "name": "AWS Backup",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsbackup.html"
+    },
+    {
+        "name": "AWS Backup Gateway",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsbackupgateway.html"
+    },
+    {
+        "name": "AWS Backup storage",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsbackupstorage.html"
+    },
+    {
+        "name": "AWS Batch",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsbatch.html"
+    },
+    {
+        "name": "AWS Billing and Cost Management",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsbilling_.html"
+    },
+    {
+        "name": "AWS Billing Conductor",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsbillingconductor.html"
+    },
+    {
+        "name": "AWS Billing and Cost Management Console",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsbillingconsole.html"
+    },
+    {
+        "name": "Amazon Braket",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonbraket.html"
+    },
+    {
+        "name": "AWS Budget Service",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsbudgetservice.html"
+    },
+    {
+        "name": "AWS BugBust",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsbugbust.html"
+    },
+    {
+        "name": "AWS Certificate Manager",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awscertificatemanager.html"
+    },
+    {
+        "name": "AWS Chatbot",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awschatbot.html"
+    },
+    {
+        "name": "Amazon Chime",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonchime.html"
+    },
+    {
+        "name": "AWS Clean Rooms",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awscleanrooms.html"
+    },
+    {
+        "name": "AWS Cloud Control API",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awscloudcontrolapi.html"
+    },
+    {
+        "name": "Amazon Cloud Directory",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonclouddirectory.html"
+    },
+    {
+        "name": "AWS Cloud Map",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awscloudmap.html"
+    },
+    {
+        "name": "AWS Cloud9",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awscloud9.html"
+    },
+    {
+        "name": "AWS CloudFormation",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awscloudformation.html"
+    },
+    {
+        "name": "Amazon CloudFront",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazoncloudfront.html"
+    },
+    {
+        "name": "AWS CloudHSM",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awscloudhsm.html"
+    },
+    {
+        "name": "Amazon CloudSearch",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazoncloudsearch.html"
+    },
+    {
+        "name": "AWS CloudShell",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awscloudshell.html"
+    },
+    {
+        "name": "AWS CloudTrail",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awscloudtrail.html"
+    },
+    {
+        "name": "AWS CloudTrail Data",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awscloudtraildata.html"
+    },
+    {
+        "name": "Amazon CloudWatch",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazoncloudwatch.html"
+    },
+    {
+        "name": "Amazon CloudWatch Application Insights",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazoncloudwatchapplicationinsights.html"
+    },
+    {
+        "name": "Amazon CloudWatch Evidently",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazoncloudwatchevidently.html"
+    },
+    {
+        "name": "Amazon CloudWatch Internet Monitor",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazoncloudwatchinternetmonitor.html"
+    },
+    {
+        "name": "Amazon CloudWatch Logs",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazoncloudwatchlogs.html"
+    },
+    {
+        "name": "Amazon CloudWatch Observability Access Manager",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazoncloudwatchobservabilityaccessmanager.html"
+    },
+    {
+        "name": "AWS CloudWatch RUM",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awscloudwatchrum.html"
+    },
+    {
+        "name": "Amazon CloudWatch Synthetics",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazoncloudwatchsynthetics.html"
+    },
+    {
+        "name": "AWS CodeArtifact",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awscodeartifact.html"
+    },
+    {
+        "name": "AWS CodeBuild",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awscodebuild.html"
+    },
+    {
+        "name": "Amazon CodeCatalyst",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazoncodecatalyst.html"
+    },
+    {
+        "name": "AWS CodeCommit",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awscodecommit.html"
+    },
+    {
+        "name": "AWS CodeDeploy",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awscodedeploy.html"
+    },
+    {
+        "name": "AWS CodeDeploy secure host commands service",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awscodedeploysecurehostcommandsservice.html"
+    },
+    {
+        "name": "Amazon CodeGuru",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazoncodeguru.html"
+    },
+    {
+        "name": "Amazon CodeGuru Profiler",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazoncodeguruprofiler.html"
+    },
+    {
+        "name": "Amazon CodeGuru Reviewer",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazoncodegurureviewer.html"
+    },
+    {
+        "name": "Amazon CodeGuru Security",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazoncodegurusecurity.html"
+    },
+    {
+        "name": "AWS CodePipeline",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awscodepipeline.html"
+    },
+    {
+        "name": "AWS CodeStar",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awscodestar.html"
+    },
+    {
+        "name": "AWS CodeStar Connections",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awscodestarconnections.html"
+    },
+    {
+        "name": "AWS CodeStar Notifications",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awscodestarnotifications.html"
+    },
+    {
+        "name": "Amazon CodeWhisperer",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazoncodewhisperer.html"
+    },
+    {
+        "name": "Amazon Cognito Identity",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazoncognitoidentity.html"
+    },
+    {
+        "name": "Amazon Cognito Sync",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazoncognitosync.html"
+    },
+    {
+        "name": "Amazon Cognito User Pools",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazoncognitouserpools.html"
+    },
+    {
+        "name": "Amazon Comprehend",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazoncomprehend.html"
+    },
+    {
+        "name": "Amazon Comprehend Medical",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazoncomprehendmedical.html"
+    },
+    {
+        "name": "AWS Compute Optimizer",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awscomputeoptimizer.html"
+    },
+    {
+        "name": "AWS Config",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsconfig.html"
+    },
+    {
+        "name": "Amazon Connect",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonconnect.html"
+    },
+    {
+        "name": "Amazon Connect Cases",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonconnectcases.html"
+    },
+    {
+        "name": "Amazon Connect Customer Profiles",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonconnectcustomerprofiles.html"
+    },
+    {
+        "name": "Amazon Connect Voice ID",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonconnectvoiceid.html"
+    },
+    {
+        "name": "Amazon Connect Wisdom",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonconnectwisdom.html"
+    },
+    {
+        "name": "AWS Connector Service",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsconnectorservice.html"
+    },
+    {
+        "name": "AWS Management Console Mobile App",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsconsolemobileapp.html"
+    },
+    {
+        "name": "AWS Consolidated Billing",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsconsolidatedbilling.html"
+    },
+    {
+        "name": "AWS Control Tower",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awscontroltower.html"
+    },
+    {
+        "name": "AWS Cost and Usage Report",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awscostandusagereport.html"
+    },
+    {
+        "name": "AWS Cost Explorer Service",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awscostexplorerservice.html"
+    },
+    {
+        "name": "AWS Customer Verification Service",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awscustomerverificationservice.html"
+    },
+    {
+        "name": "AWS Data Exchange",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsdataexchange.html"
+    },
+    {
+        "name": "Amazon Data Lifecycle Manager",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazondatalifecyclemanager.html"
+    },
+    {
+        "name": "AWS Data Pipeline",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsdatapipeline.html"
+    },
+    {
+        "name": "AWS Database Migration Service",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsdatabasemigrationservice.html"
+    },
+    {
+        "name": "Database Query Metadata Service",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_databasequerymetadataservice.html"
+    },
+    {
+        "name": "AWS DataSync",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsdatasync.html"
+    },
+    {
+        "name": "Amazon DataZone",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazondatazone.html"
+    },
+    {
+        "name": "Amazon DataZone Control",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazondatazonecontrol.html"
+    },
+    {
+        "name": "AWS DeepComposer",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsdeepcomposer.html"
+    },
+    {
+        "name": "AWS DeepLens",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsdeeplens.html"
+    },
+    {
+        "name": "AWS DeepRacer",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsdeepracer.html"
+    },
+    {
+        "name": "Amazon Detective",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazondetective.html"
+    },
+    {
+        "name": "AWS Device Farm",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsdevicefarm.html"
+    },
+    {
+        "name": "Amazon DevOps Guru",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazondevopsguru.html"
+    },
+    {
+        "name": "AWS Direct Connect",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsdirectconnect.html"
+    },
+    {
+        "name": "AWS Directory Service",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsdirectoryservice.html"
+    },
+    {
+        "name": "Amazon DocumentDB Elastic Clusters",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazondocumentdbelasticclusters.html"
+    },
+    {
+        "name": "Amazon DynamoDB",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazondynamodb.html"
+    },
+    {
+        "name": "Amazon DynamoDB Accelerator (DAX)",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazondynamodbacceleratordax.html"
+    },
+    {
+        "name": "Amazon EC2",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonec2.html"
+    },
+    {
+        "name": "Amazon EC2 Auto Scaling",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonec2autoscaling.html"
+    },
+    {
+        "name": "Amazon EC2 Image Builder",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonec2imagebuilder.html"
+    },
+    {
+        "name": "Amazon EC2 Instance Connect",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonec2instanceconnect.html"
+    },
+    {
+        "name": "AWS Elastic Beanstalk",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awselasticbeanstalk.html"
+    },
+    {
+        "name": "Amazon Elastic Block Store",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonelasticblockstore.html"
+    },
+    {
+        "name": "Amazon Elastic Container Registry",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonelasticcontainerregistry.html"
+    },
+    {
+        "name": "Amazon Elastic Container Registry Public",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonelasticcontainerregistrypublic.html"
+    },
+    {
+        "name": "Amazon Elastic Container Service",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonelasticcontainerservice.html"
+    },
+    {
+        "name": "AWS Elastic Disaster Recovery",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awselasticdisasterrecovery.html"
+    },
+    {
+        "name": "Amazon Elastic File System",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonelasticfilesystem.html"
+    },
+    {
+        "name": "Amazon Elastic Inference",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonelasticinference.html"
+    },
+    {
+        "name": "Amazon Elastic Kubernetes Service",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonelastickubernetesservice.html"
+    },
+    {
+        "name": "AWS Elastic Load Balancing",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awselasticloadbalancing.html"
+    },
+    {
+        "name": "AWS Elastic Load Balancing V2",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awselasticloadbalancingv2.html"
+    },
+    {
+        "name": "Amazon Elastic MapReduce",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonelasticmapreduce.html"
+    },
+    {
+        "name": "Amazon Elastic Transcoder",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonelastictranscoder.html"
+    },
+    {
+        "name": "Amazon ElastiCache",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonelasticache.html"
+    },
+    {
+        "name": "AWS Elemental Appliances and Software",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awselementalappliancesandsoftware.html"
+    },
+    {
+        "name": "AWS Elemental Appliances and Software Activation Service",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awselementalappliancesandsoftwareactivationservice.html"
+    },
+    {
+        "name": "AWS Elemental MediaConnect",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awselementalmediaconnect.html"
+    },
+    {
+        "name": "AWS Elemental MediaConvert",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awselementalmediaconvert.html"
+    },
+    {
+        "name": "AWS Elemental MediaLive",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awselementalmedialive.html"
+    },
+    {
+        "name": "AWS Elemental MediaPackage",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awselementalmediapackage.html"
+    },
+    {
+        "name": "AWS Elemental MediaPackage V2",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awselementalmediapackagev2.html"
+    },
+    {
+        "name": "AWS Elemental MediaPackage VOD",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awselementalmediapackagevod.html"
+    },
+    {
+        "name": "AWS Elemental MediaStore",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awselementalmediastore.html"
+    },
+    {
+        "name": "AWS Elemental MediaTailor",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awselementalmediatailor.html"
+    },
+    {
+        "name": "AWS Elemental Support Cases",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awselementalsupportcases.html"
+    },
+    {
+        "name": "AWS Elemental Support Content",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awselementalsupportcontent.html"
+    },
+    {
+        "name": "Amazon EMR on EKS (EMR Containers)",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonemroneksemrcontainers.html"
+    },
+    {
+        "name": "Amazon EMR Serverless",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonemrserverless.html"
+    },
+    {
+        "name": "Amazon EventBridge",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazoneventbridge.html"
+    },
+    {
+        "name": "Amazon EventBridge Pipes",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazoneventbridgepipes.html"
+    },
+    {
+        "name": "Amazon EventBridge Scheduler",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazoneventbridgescheduler.html"
+    },
+    {
+        "name": "Amazon EventBridge Schemas",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazoneventbridgeschemas.html"
+    },
+    {
+        "name": "AWS Fault Injection Simulator",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsfaultinjectionsimulator.html"
+    },
+    {
+        "name": "Amazon FinSpace",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonfinspace.html"
+    },
+    {
+        "name": "Amazon FinSpace API",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonfinspaceapi.html"
+    },
+    {
+        "name": "AWS Firewall Manager",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsfirewallmanager.html"
+    },
+    {
+        "name": "Amazon Forecast",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonforecast.html"
+    },
+    {
+        "name": "Amazon Fraud Detector",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonfrauddetector.html"
+    },
+    {
+        "name": "AWS Free Tier",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsfreetier.html"
+    },
+    {
+        "name": "Amazon FreeRTOS",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonfreertos.html"
+    },
+    {
+        "name": "Amazon FSx",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonfsx.html"
+    },
+    {
+        "name": "Amazon GameLift",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazongamelift.html"
+    },
+    {
+        "name": "Amazon GameSparks",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazongamesparks.html"
+    },
+    {
+        "name": "AWS Global Accelerator",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsglobalaccelerator.html"
+    },
+    {
+        "name": "AWS Glue",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsglue.html"
+    },
+    {
+        "name": "AWS Glue DataBrew",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsgluedatabrew.html"
+    },
+    {
+        "name": "AWS Ground Station",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsgroundstation.html"
+    },
+    {
+        "name": "Amazon GroundTruth Labeling",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazongroundtruthlabeling.html"
+    },
+    {
+        "name": "Amazon GuardDuty",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonguardduty.html"
+    },
+    {
+        "name": "AWS Health APIs and Notifications",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awshealthapisandnotifications.html"
+    },
+    {
+        "name": "Amazon HealthLake",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonhealthlake.html"
+    },
+    {
+        "name": "High-volume outbound communications",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_high-volumeoutboundcommunications.html"
+    },
+    {
+        "name": "Amazon Honeycode",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonhoneycode.html"
+    },
+    {
+        "name": "AWS IAM Access Analyzer",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsiamaccessanalyzer.html"
+    },
+    {
+        "name": "AWS IAM Identity Center (successor to AWS Single Sign-On)",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsiamidentitycentersuccessortoawssinglesign-on.html"
+    },
+    {
+        "name": "AWS IAM Identity Center (successor to AWS Single Sign-On) directory",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsiamidentitycentersuccessortoawssinglesign-ondirectory.html"
+    },
+    {
+        "name": "AWS Identity and Access Management",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsidentityandaccessmanagement.html"
+    },
+    {
+        "name": "AWS Identity and Access Management Roles Anywhere",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsidentityandaccessmanagementrolesanywhere.html"
+    },
+    {
+        "name": "AWS Identity Store",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsidentitystore.html"
+    },
+    {
+        "name": "AWS Identity Store Auth",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsidentitystoreauth.html"
+    },
+    {
+        "name": "AWS Identity Sync",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsidentitysync.html"
+    },
+    {
+        "name": "AWS Import Export Disk Service",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsimportexportdiskservice.html"
+    },
+    {
+        "name": "Amazon Inspector",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazoninspector.html"
+    },
+    {
+        "name": "Amazon Inspector2",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazoninspector2.html"
+    },
+    {
+        "name": "Amazon Interactive Video Service",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazoninteractivevideoservice.html"
+    },
+    {
+        "name": "Amazon Interactive Video Service Chat",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazoninteractivevideoservicechat.html"
+    },
+    {
+        "name": "AWS Invoicing Service",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsinvoicingservice.html"
+    },
+    {
+        "name": "AWS IoT",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsiot.html"
+    },
+    {
+        "name": "AWS IoT 1-Click",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsiot1-click.html"
+    },
+    {
+        "name": "AWS IoT Analytics",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsiotanalytics.html"
+    },
+    {
+        "name": "AWS IoT Core Device Advisor",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsiotcoredeviceadvisor.html"
+    },
+    {
+        "name": "AWS IoT Device Tester",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsiotdevicetester.html"
+    },
+    {
+        "name": "AWS IoT Events",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsiotevents.html"
+    },
+    {
+        "name": "AWS IoT Fleet Hub for Device Management",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsiotfleethubfordevicemanagement.html"
+    },
+    {
+        "name": "AWS IoT FleetWise",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsiotfleetwise.html"
+    },
+    {
+        "name": "AWS IoT Greengrass",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsiotgreengrass.html"
+    },
+    {
+        "name": "AWS IoT Greengrass V2",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsiotgreengrassv2.html"
+    },
+    {
+        "name": "AWS IoT Jobs DataPlane",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsiotjobsdataplane.html"
+    },
+    {
+        "name": "AWS IoT RoboRunner",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsiotroborunner.html"
+    },
+    {
+        "name": "AWS IoT SiteWise",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsiotsitewise.html"
+    },
+    {
+        "name": "AWS IoT TwinMaker",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsiottwinmaker.html"
+    },
+    {
+        "name": "AWS IoT Wireless",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsiotwireless.html"
+    },
+    {
+        "name": "AWS IQ",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsiq.html"
+    },
+    {
+        "name": "AWS IQ Permissions",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsiqpermissions.html"
+    },
+    {
+        "name": "Amazon Kendra",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonkendra.html"
+    },
+    {
+        "name": "Amazon Kendra Intelligent Ranking",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonkendraintelligentranking.html"
+    },
+    {
+        "name": "AWS Key Management Service",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awskeymanagementservice.html"
+    },
+    {
+        "name": "Amazon Keyspaces (for Apache Cassandra)",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonkeyspacesforapachecassandra.html"
+    },
+    {
+        "name": "Amazon Kinesis Analytics",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonkinesisanalytics.html"
+    },
+    {
+        "name": "Amazon Kinesis Analytics V2",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonkinesisanalyticsv2.html"
+    },
+    {
+        "name": "Amazon Kinesis Data Streams",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonkinesisdatastreams.html"
+    },
+    {
+        "name": "Amazon Kinesis Firehose",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonkinesisfirehose.html"
+    },
+    {
+        "name": "Amazon Kinesis Video Streams",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonkinesisvideostreams.html"
+    },
+    {
+        "name": "AWS Lake Formation",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awslakeformation.html"
+    },
+    {
+        "name": "AWS Lambda",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awslambda.html"
+    },
+    {
+        "name": "AWS Launch Wizard",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awslaunchwizard.html"
+    },
+    {
+        "name": "Amazon Lex",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonlex.html"
+    },
+    {
+        "name": "Amazon Lex V2",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonlexv2.html"
+    },
+    {
+        "name": "AWS License Manager",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awslicensemanager.html"
+    },
+    {
+        "name": "AWS License Manager Linux Subscriptions Manager",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awslicensemanagerlinuxsubscriptionsmanager.html"
+    },
+    {
+        "name": "AWS License Manager User Subscriptions",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awslicensemanagerusersubscriptions.html"
+    },
+    {
+        "name": "Amazon Lightsail",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonlightsail.html"
+    },
+    {
+        "name": "Amazon Location",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonlocation.html"
+    },
+    {
+        "name": "Amazon Lookout for Equipment",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonlookoutforequipment.html"
+    },
+    {
+        "name": "Amazon Lookout for Metrics",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonlookoutformetrics.html"
+    },
+    {
+        "name": "Amazon Lookout for Vision",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonlookoutforvision.html"
+    },
+    {
+        "name": "Amazon Machine Learning",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonmachinelearning.html"
+    },
+    {
+        "name": "Amazon Macie",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonmacie.html"
+    },
+    {
+        "name": "AWS Mainframe Modernization Service",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsmainframemodernizationservice.html"
+    },
+    {
+        "name": "Amazon Managed Blockchain",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonmanagedblockchain.html"
+    },
+    {
+        "name": "Amazon Managed Grafana",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonmanagedgrafana.html"
+    },
+    {
+        "name": "Amazon Managed Service for Prometheus",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonmanagedserviceforprometheus.html"
+    },
+    {
+        "name": "Amazon Managed Streaming for Apache Kafka",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonmanagedstreamingforapachekafka.html"
+    },
+    {
+        "name": "Amazon Managed Streaming for Kafka Connect",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonmanagedstreamingforkafkaconnect.html"
+    },
+    {
+        "name": "Amazon Managed Workflows for Apache Airflow",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonmanagedworkflowsforapacheairflow.html"
+    },
+    {
+        "name": "AWS Marketplace",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsmarketplace.html"
+    },
+    {
+        "name": "AWS Marketplace Catalog",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsmarketplacecatalog.html"
+    },
+    {
+        "name": "AWS Marketplace Commerce Analytics Service",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsmarketplacecommerceanalyticsservice.html"
+    },
+    {
+        "name": "AWS Marketplace Discovery",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsmarketplacediscovery.html"
+    },
+    {
+        "name": "AWS Marketplace Entitlement Service",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsmarketplaceentitlementservice.html"
+    },
+    {
+        "name": "AWS Marketplace Image Building Service",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsmarketplaceimagebuildingservice.html"
+    },
+    {
+        "name": "AWS Marketplace Management Portal",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsmarketplacemanagementportal.html"
+    },
+    {
+        "name": "AWS Marketplace Metering Service",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsmarketplacemeteringservice.html"
+    },
+    {
+        "name": "AWS Marketplace Private Marketplace",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsmarketplaceprivatemarketplace.html"
+    },
+    {
+        "name": "AWS Marketplace Procurement Systems Integration",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsmarketplaceprocurementsystemsintegration.html"
+    },
+    {
+        "name": "AWS Marketplace Seller Reporting",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsmarketplacesellerreporting.html"
+    },
+    {
+        "name": "AWS Marketplace Vendor Insights",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsmarketplacevendorinsights.html"
+    },
+    {
+        "name": "Amazon Mechanical Turk",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonmechanicalturk.html"
+    },
+    {
+        "name": "Amazon MemoryDB",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonmemorydb.html"
+    },
+    {
+        "name": "Amazon Message Delivery Service",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonmessagedeliveryservice.html"
+    },
+    {
+        "name": "AWS Microservice Extractor for .NET",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsmicroserviceextractorfor.net.html"
+    },
+    {
+        "name": "AWS Migration Hub",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsmigrationhub.html"
+    },
+    {
+        "name": "AWS Migration Hub Orchestrator",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsmigrationhuborchestrator.html"
+    },
+    {
+        "name": "AWS Migration Hub Refactor Spaces",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsmigrationhubrefactorspaces.html"
+    },
+    {
+        "name": "AWS Migration Hub Strategy Recommendations",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsmigrationhubstrategyrecommendations.html"
+    },
+    {
+        "name": "Amazon Mobile Analytics",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonmobileanalytics.html"
+    },
+    {
+        "name": "AWS Mobile Hub",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsmobilehub.html"
+    },
+    {
+        "name": "Amazon Monitron",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonmonitron.html"
+    },
+    {
+        "name": "Amazon MQ",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonmq.html"
+    },
+    {
+        "name": "Amazon Neptune",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonneptune.html"
+    },
+    {
+        "name": "AWS Network Firewall",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsnetworkfirewall.html"
+    },
+    {
+        "name": "AWS Network Manager",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsnetworkmanager.html"
+    },
+    {
+        "name": "Amazon Nimble Studio",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonnimblestudio.html"
+    },
+    {
+        "name": "Amazon Omics",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonomics.html"
+    },
+    {
+        "name": "Amazon OpenSearch Ingestion",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonopensearchingestion.html"
+    },
+    {
+        "name": "Amazon OpenSearch Serverless",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonopensearchserverless.html"
+    },
+    {
+        "name": "Amazon OpenSearch Service",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonopensearchservice.html"
+    },
+    {
+        "name": "AWS OpsWorks",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsopsworks.html"
+    },
+    {
+        "name": "AWS OpsWorks Configuration Management",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsopsworksconfigurationmanagement.html"
+    },
+    {
+        "name": "AWS Organizations",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsorganizations.html"
+    },
+    {
+        "name": "AWS Outposts",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsoutposts.html"
+    },
+    {
+        "name": "AWS Panorama",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awspanorama.html"
+    },
+    {
+        "name": "AWS Payment Cryptography",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awspaymentcryptography.html"
+    },
+    {
+        "name": "AWS Payments",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awspayments.html"
+    },
+    {
+        "name": "AWS Performance Insights",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsperformanceinsights.html"
+    },
+    {
+        "name": "Amazon Personalize",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonpersonalize.html"
+    },
+    {
+        "name": "Amazon Pinpoint",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonpinpoint.html"
+    },
+    {
+        "name": "Amazon Pinpoint Email Service",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonpinpointemailservice.html"
+    },
+    {
+        "name": "Amazon Pinpoint SMS and Voice Service",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonpinpointsmsandvoiceservice.html"
+    },
+    {
+        "name": "Amazon Pinpoint SMS Voice V2",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonpinpointsmsvoicev2.html"
+    },
+    {
+        "name": "Amazon Polly",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonpolly.html"
+    },
+    {
+        "name": "AWS Price List",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awspricelist.html"
+    },
+    {
+        "name": "AWS Private Certificate Authority",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsprivatecertificateauthority.html"
+    },
+    {
+        "name": "AWS Proton",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsproton.html"
+    },
+    {
+        "name": "AWS Purchase Orders Console",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awspurchaseordersconsole.html"
+    },
+    {
+        "name": "Amazon QLDB",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonqldb.html"
+    },
+    {
+        "name": "Amazon QuickSight",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonquicksight.html"
+    },
+    {
+        "name": "Amazon RDS",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonrds.html"
+    },
+    {
+        "name": "Amazon RDS Data API",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonrdsdataapi.html"
+    },
+    {
+        "name": "Amazon RDS IAM Authentication",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonrdsiamauthentication.html"
+    },
+    {
+        "name": "AWS Recycle Bin",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsrecyclebin.html"
+    },
+    {
+        "name": "Amazon Redshift",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonredshift.html"
+    },
+    {
+        "name": "Amazon Redshift Data API",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonredshiftdataapi.html"
+    },
+    {
+        "name": "Amazon Redshift Serverless",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonredshiftserverless.html"
+    },
+    {
+        "name": "Amazon Rekognition",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonrekognition.html"
+    },
+    {
+        "name": "AWS Resilience Hub Service",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsresiliencehubservice.html"
+    },
+    {
+        "name": "AWS Resource Access Manager (RAM)",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsresourceaccessmanagerram.html"
+    },
+    {
+        "name": "AWS Resource Explorer",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsresourceexplorer.html"
+    },
+    {
+        "name": "Amazon Resource Group Tagging API",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonresourcegrouptaggingapi.html"
+    },
+    {
+        "name": "AWS Resource Groups",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsresourcegroups.html"
+    },
+    {
+        "name": "Amazon RHEL Knowledgebase Portal",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonrhelknowledgebaseportal.html"
+    },
+    {
+        "name": "AWS RoboMaker",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsrobomaker.html"
+    },
+    {
+        "name": "Amazon Route 53",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonroute53.html"
+    },
+    {
+        "name": "Amazon Route 53 Application Recovery Controller - Zonal Shift",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonroute53applicationrecoverycontroller-zonalshift.html"
+    },
+    {
+        "name": "Amazon Route 53 Domains",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonroute53domains.html"
+    },
+    {
+        "name": "Amazon Route 53 Recovery Cluster",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonroute53recoverycluster.html"
+    },
+    {
+        "name": "Amazon Route 53 Recovery Controls",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonroute53recoverycontrols.html"
+    },
+    {
+        "name": "Amazon Route 53 Recovery Readiness",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonroute53recoveryreadiness.html"
+    },
+    {
+        "name": "Amazon Route 53 Resolver",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonroute53resolver.html"
+    },
+    {
+        "name": "Amazon S3",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazons3.html"
+    },
+    {
+        "name": "Amazon S3 Glacier",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazons3glacier.html"
+    },
+    {
+        "name": "Amazon S3 Object Lambda",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazons3objectlambda.html"
+    },
+    {
+        "name": "Amazon S3 on Outposts",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazons3onoutposts.html"
+    },
+    {
+        "name": "Amazon SageMaker",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonsagemaker.html"
+    },
+    {
+        "name": "Amazon SageMaker geospatial capabilities",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonsagemakergeospatialcapabilities.html"
+    },
+    {
+        "name": "Amazon SageMaker Ground Truth Synthetic",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonsagemakergroundtruthsynthetic.html"
+    },
+    {
+        "name": "AWS Savings Plans",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awssavingsplans.html"
+    },
+    {
+        "name": "AWS Secrets Manager",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awssecretsmanager.html"
+    },
+    {
+        "name": "AWS Security Hub",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awssecurityhub.html"
+    },
+    {
+        "name": "Amazon Security Lake",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonsecuritylake.html"
+    },
+    {
+        "name": "AWS Security Token Service",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awssecuritytokenservice.html"
+    },
+    {
+        "name": "AWS Server Migration Service",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsservermigrationservice.html"
+    },
+    {
+        "name": "AWS Serverless Application Repository",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsserverlessapplicationrepository.html"
+    },
+    {
+        "name": "AWS Service Catalog",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsservicecatalog.html"
+    },
+    {
+        "name": "AWS service providing managed private networks",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsserviceprovidingmanagedprivatenetworks.html"
+    },
+    {
+        "name": "Service Quotas",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_servicequotas.html"
+    },
+    {
+        "name": "Amazon SES",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonses.html"
+    },
+    {
+        "name": "Amazon Session Manager Message Gateway Service",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonsessionmanagermessagegatewayservice.html"
+    },
+    {
+        "name": "AWS Shield",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsshield.html"
+    },
+    {
+        "name": "AWS Signer",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awssigner.html"
+    },
+    {
+        "name": "Amazon Simple Email Service v2",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonsimpleemailservicev2.html"
+    },
+    {
+        "name": "Amazon Simple Workflow Service",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonsimpleworkflowservice.html"
+    },
+    {
+        "name": "Amazon SimpleDB",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonsimpledb.html"
+    },
+    {
+        "name": "AWS SimSpace Weaver",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awssimspaceweaver.html"
+    },
+    {
+        "name": "AWS Snow Device Management",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awssnowdevicemanagement.html"
+    },
+    {
+        "name": "AWS Snowball",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awssnowball.html"
+    },
+    {
+        "name": "Amazon SNS",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonsns.html"
+    },
+    {
+        "name": "AWS SQL Workbench",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awssqlworkbench.html"
+    },
+    {
+        "name": "Amazon SQS",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonsqs.html"
+    },
+    {
+        "name": "AWS Step Functions",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsstepfunctions.html"
+    },
+    {
+        "name": "AWS Storage Gateway",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsstoragegateway.html"
+    },
+    {
+        "name": "AWS Supply Chain",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awssupplychain.html"
+    },
+    {
+        "name": "AWS Support",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awssupport.html"
+    },
+    {
+        "name": "AWS Support App in Slack",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awssupportappinslack.html"
+    },
+    {
+        "name": "AWS Support Plans",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awssupportplans.html"
+    },
+    {
+        "name": "AWS Sustainability",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awssustainability.html"
+    },
+    {
+        "name": "AWS Systems Manager",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awssystemsmanager.html"
+    },
+    {
+        "name": "AWS Systems Manager for SAP",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awssystemsmanagerforsap.html"
+    },
+    {
+        "name": "AWS Systems Manager GUI Connect",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awssystemsmanagerguiconnect.html"
+    },
+    {
+        "name": "AWS Systems Manager Incident Manager",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awssystemsmanagerincidentmanager.html"
+    },
+    {
+        "name": "AWS Systems Manager Incident Manager Contacts",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awssystemsmanagerincidentmanagercontacts.html"
+    },
+    {
+        "name": "AWS Tag Editor",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awstageditor.html"
+    },
+    {
+        "name": "AWS Tax Settings",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awstaxsettings.html"
+    },
+    {
+        "name": "AWS Telco Network Builder",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awstelconetworkbuilder.html"
+    },
+    {
+        "name": "Amazon Textract",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazontextract.html"
+    },
+    {
+        "name": "Amazon Timestream",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazontimestream.html"
+    },
+    {
+        "name": "AWS Tiros",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awstiros.html"
+    },
+    {
+        "name": "Amazon Transcribe",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazontranscribe.html"
+    },
+    {
+        "name": "AWS Transfer Family",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awstransferfamily.html"
+    },
+    {
+        "name": "Amazon Translate",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazontranslate.html"
+    },
+    {
+        "name": "AWS Trusted Advisor",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awstrustedadvisor.html"
+    },
+    {
+        "name": "AWS User Notifications",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsusernotifications.html"
+    },
+    {
+        "name": "AWS User Notifications Contacts",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsusernotificationscontacts.html"
+    },
+    {
+        "name": "AWS Verified Access",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsverifiedaccess.html"
+    },
+    {
+        "name": "Amazon Verified Permissions",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonverifiedpermissions.html"
+    },
+    {
+        "name": "Amazon VPC Lattice",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonvpclattice.html"
+    },
+    {
+        "name": "Amazon VPC Lattice Services",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonvpclatticeservices.html"
+    },
+    {
+        "name": "AWS WAF",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awswaf.html"
+    },
+    {
+        "name": "AWS WAF Regional",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awswafregional.html"
+    },
+    {
+        "name": "AWS WAF V2",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awswafv2.html"
+    },
+    {
+        "name": "AWS Well-Architected Tool",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awswell-architectedtool.html"
+    },
+    {
+        "name": "AWS Wickr",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awswickr.html"
+    },
+    {
+        "name": "Amazon WorkDocs",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonworkdocs.html"
+    },
+    {
+        "name": "Amazon WorkLink",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonworklink.html"
+    },
+    {
+        "name": "Amazon WorkMail",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonworkmail.html"
+    },
+    {
+        "name": "Amazon WorkMail Message Flow",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonworkmailmessageflow.html"
+    },
+    {
+        "name": "Amazon WorkSpaces",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonworkspaces.html"
+    },
+    {
+        "name": "Amazon WorkSpaces Application Manager",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonworkspacesapplicationmanager.html"
+    },
+    {
+        "name": "Amazon WorkSpaces Web",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonworkspacesweb.html"
+    },
+    {
+        "name": "AWS X-Ray",
+        "url": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsx-ray.html"
+    }
+]

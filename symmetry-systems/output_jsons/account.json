@@ -1,0 +1,322 @@
+{
+    "prefix": "account",
+    "link": [
+        "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsaccountmanagement.html"
+    ],
+    "actions": [
+        {
+            "action": "CloseAccount",
+            "access": "Write",
+            "resources": [
+                "account"
+            ],
+            "conditionKeys": [],
+            "dependentActions": [],
+            "desc": "Grants permission to close an account"
+        },
+        {
+            "action": "DeleteAlternateContact",
+            "access": "Write",
+            "resources": [
+                "account"
+            ],
+            "conditionKeys": [],
+            "dependentActions": [],
+            "desc": "Grants permission to delete the alternate contacts for an account"
+        },
+        {
+            "action": "DeleteAlternateContact",
+            "access": "Write",
+            "resources": [
+                "accountInOrganization"
+            ],
+            "conditionKeys": [],
+            "dependentActions": [],
+            "desc": "Grants permission to delete the alternate contacts for an account"
+        },
+        {
+            "action": "DeleteAlternateContact",
+            "access": "Write",
+            "resources": [],
+            "conditionKeys": [
+                "account:AlternateContactTypes"
+            ],
+            "dependentActions": [],
+            "desc": "Grants permission to delete the alternate contacts for an account"
+        },
+        {
+            "action": "DisableRegion",
+            "access": "Write",
+            "resources": [
+                "account"
+            ],
+            "conditionKeys": [],
+            "dependentActions": [],
+            "desc": "Grants permission to disable use of a Region"
+        },
+        {
+            "action": "DisableRegion",
+            "access": "Write",
+            "resources": [
+                "accountInOrganization"
+            ],
+            "conditionKeys": [],
+            "dependentActions": [],
+            "desc": "Grants permission to disable use of a Region"
+        },
+        {
+            "action": "DisableRegion",
+            "access": "Write",
+            "resources": [],
+            "conditionKeys": [
+                "account:TargetRegion"
+            ],
+            "dependentActions": [],
+            "desc": "Grants permission to disable use of a Region"
+        },
+        {
+            "action": "EnableRegion",
+            "access": "Write",
+            "resources": [
+                "account"
+            ],
+            "conditionKeys": [],
+            "dependentActions": [],
+            "desc": "Grants permission to enable use of a Region"
+        },
+        {
+            "action": "EnableRegion",
+            "access": "Write",
+            "resources": [
+                "accountInOrganization"
+            ],
+            "conditionKeys": [],
+            "dependentActions": [],
+            "desc": "Grants permission to enable use of a Region"
+        },
+        {
+            "action": "EnableRegion",
+            "access": "Write",
+            "resources": [],
+            "conditionKeys": [
+                "account:TargetRegion"
+            ],
+            "dependentActions": [],
+            "desc": "Grants permission to enable use of a Region"
+        },
+        {
+            "action": "GetAccountInformation",
+            "access": "Read",
+            "resources": [
+                "account"
+            ],
+            "conditionKeys": [],
+            "dependentActions": [],
+            "desc": "Grants permission to retrieve the account information for an account"
+        },
+        {
+            "action": "GetAlternateContact",
+            "access": "Read",
+            "resources": [
+                "account"
+            ],
+            "conditionKeys": [],
+            "dependentActions": [],
+            "desc": "Grants permission to retrieve the alternate contacts for an account"
+        },
+        {
+            "action": "GetAlternateContact",
+            "access": "Read",
+            "resources": [
+                "accountInOrganization"
+            ],
+            "conditionKeys": [],
+            "dependentActions": [],
+            "desc": "Grants permission to retrieve the alternate contacts for an account"
+        },
+        {
+            "action": "GetAlternateContact",
+            "access": "Read",
+            "resources": [],
+            "conditionKeys": [
+                "account:AlternateContactTypes"
+            ],
+            "dependentActions": [],
+            "desc": "Grants permission to retrieve the alternate contacts for an account"
+        },
+        {
+            "action": "GetChallengeQuestions",
+            "access": "Read",
+            "resources": [
+                "account"
+            ],
+            "conditionKeys": [],
+            "dependentActions": [],
+            "desc": "Grants permission to retrieve the challenge questions for an account"
+        },
+        {
+            "action": "GetContactInformation",
+            "access": "Read",
+            "resources": [
+                "account"
+            ],
+            "conditionKeys": [],
+            "dependentActions": [],
+            "desc": "Grants permission to retrieve the primary contact information for an account"
+        },
+        {
+            "action": "GetContactInformation",
+            "access": "Read",
+            "resources": [
+                "accountInOrganization"
+            ],
+            "conditionKeys": [],
+            "dependentActions": [],
+            "desc": "Grants permission to retrieve the primary contact information for an account"
+        },
+        {
+            "action": "GetRegionOptStatus",
+            "access": "Read",
+            "resources": [
+                "account"
+            ],
+            "conditionKeys": [],
+            "dependentActions": [],
+            "desc": "Grants permission to get the opt-in status of a Region"
+        },
+        {
+            "action": "GetRegionOptStatus",
+            "access": "Read",
+            "resources": [
+                "accountInOrganization"
+            ],
+            "conditionKeys": [],
+            "dependentActions": [],
+            "desc": "Grants permission to get the opt-in status of a Region"
+        },
+        {
+            "action": "GetRegionOptStatus",
+            "access": "Read",
+            "resources": [],
+            "conditionKeys": [
+                "account:TargetRegion"
+            ],
+            "dependentActions": [],
+            "desc": "Grants permission to get the opt-in status of a Region"
+        },
+        {
+            "action": "ListRegions",
+            "access": "List",
+            "resources": [
+                "account"
+            ],
+            "conditionKeys": [],
+            "dependentActions": [],
+            "desc": "Grants permission to list the available Regions"
+        },
+        {
+            "action": "ListRegions",
+            "access": "List",
+            "resources": [
+                "accountInOrganization"
+            ],
+            "conditionKeys": [],
+            "dependentActions": [],
+            "desc": "Grants permission to list the available Regions"
+        },
+        {
+            "action": "PutAlternateContact",
+            "access": "Write",
+            "resources": [
+                "account"
+            ],
+            "conditionKeys": [],
+            "dependentActions": [],
+            "desc": "Grants permission to modify the alternate contacts for an account"
+        },
+        {
+            "action": "PutAlternateContact",
+            "access": "Write",
+            "resources": [
+                "accountInOrganization"
+            ],
+            "conditionKeys": [],
+            "dependentActions": [],
+            "desc": "Grants permission to modify the alternate contacts for an account"
+        },
+        {
+            "action": "PutAlternateContact",
+            "access": "Write",
+            "resources": [],
+            "conditionKeys": [
+                "account:AlternateContactTypes"
+            ],
+            "dependentActions": [],
+            "desc": "Grants permission to modify the alternate contacts for an account"
+        },
+        {
+            "action": "PutChallengeQuestions",
+            "access": "Write",
+            "resources": [
+                "account"
+            ],
+            "conditionKeys": [],
+            "dependentActions": [],
+            "desc": "Grants permission to modify the challenge questions for an account"
+        },
+        {
+            "action": "PutContactInformation",
+            "access": "Write",
+            "resources": [
+                "account"
+            ],
+            "conditionKeys": [],
+            "dependentActions": [],
+            "desc": "Grants permission to update the primary contact information for an account"
+        },
+        {
+            "action": "PutContactInformation",
+            "access": "Write",
+            "resources": [
+                "accountInOrganization"
+            ],
+            "conditionKeys": [],
+            "dependentActions": [],
+            "desc": "Grants permission to update the primary contact information for an account"
+        }
+    ],
+    "resources": [
+        {
+            "resourceType": "account",
+            "arn": "arn:${Partition}:account::${Account}:account",
+            "conditionKeys": []
+        },
+        {
+            "resourceType": "accountInOrganization",
+            "arn": "arn:${Partition}:account::${ManagementAccountId}:account/o-${OrganizationId}/${MemberAccountId}",
+            "conditionKeys": []
+        }
+    ],
+    "conditions": [
+        {
+            "conditionKey": "account:AccountResourceOrgPaths",
+            "desc": "Filters access by the resource path for an account in an organization",
+            "typ": "ArrayOfString"
+        },
+        {
+            "conditionKey": "account:AccountResourceOrgTags/${TagKey}",
+            "desc": "Filters access by resource tags for an account in an organization",
+            "typ": "ArrayOfString"
+        },
+        {
+            "conditionKey": "account:AlternateContactTypes",
+            "desc": "Filters access by alternate contact types",
+            "typ": "ArrayOfString"
+        },
+        {
+            "conditionKey": "account:TargetRegion",
+            "desc": "Filters access by a list of Regions. Enables or disables all the Regions specified here",
+            "typ": "String"
+        }
+    ]
+}
